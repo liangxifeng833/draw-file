@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-21T08:50:57.568Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="sz5k8Lh9OQkwE3RoKoXb" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-21T08:51:29.843Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="V-dfkLgKRUfj4RfC5SBW" version="22.1.11" type="github">
   <diagram name="第 1 页" id="l7KdkhpSyxvTkMxQmVaT">
     <mxGraphModel dx="784" dy="392" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -134,7 +134,7 @@
         <mxCell id="CvrxvYjm_2S9gg89ooR8-45" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="120" y="610" width="460" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="CvrxvYjm_2S9gg89ooR8-46" value="&lt;h1&gt;借十法&lt;/h1&gt;&lt;h1&gt;16&amp;nbsp; &amp;nbsp;-&amp;nbsp; 9&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;=&amp;nbsp; &amp;nbsp; 7&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=center;" vertex="1" parent="1">
+        <mxCell id="CvrxvYjm_2S9gg89ooR8-46" value="&lt;h1&gt;借十法&lt;/h1&gt;&lt;h1&gt;22&amp;nbsp; &amp;nbsp;-&amp;nbsp; 9&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;=&amp;nbsp; &amp;nbsp; 13&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=center;" vertex="1" parent="1">
           <mxGeometry x="140" y="620" width="370" height="90" as="geometry" />
         </mxCell>
         <mxCell id="CvrxvYjm_2S9gg89ooR8-47" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.461;entryY=1.024;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CvrxvYjm_2S9gg89ooR8-49">
