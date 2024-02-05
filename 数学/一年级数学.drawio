@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2024-02-05T06:22:02.317Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="wSAH2X5hx-1kKfUgnxFa" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-05T06:29:03.907Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="_RZNQpkpIcNUK00NkvOr" version="23.1.1" type="github">
   <diagram name="第 1 页" id="l7KdkhpSyxvTkMxQmVaT">
     <mxGraphModel dx="784" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="eleeWyjdYfNwm8onfjZ9-21" value="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="130" y="970" width="610" height="370" as="geometry" />
+        </mxCell>
         <mxCell id="CvrxvYjm_2S9gg89ooR8-75" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="585" width="340" height="320" as="geometry" />
         </mxCell>
@@ -179,13 +182,16 @@
           <mxGeometry x="320" y="1090" width="89.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="eleeWyjdYfNwm8onfjZ9-15" value="第一层：1个" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="474.25" y="1030" width="120" height="40" as="geometry" />
+          <mxGeometry x="474.25" y="1030" width="95.75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eleeWyjdYfNwm8onfjZ9-16" value="第二层：第一层数量 + 第二层可见数量&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 1&amp;nbsp; &amp;nbsp; &amp;nbsp;+&amp;nbsp; &amp;nbsp;2&amp;nbsp; &amp;nbsp; =&amp;nbsp; &amp;nbsp; &amp;nbsp;3个" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="474.25" y="1105" width="225.75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="eleeWyjdYfNwm8onfjZ9-18" value="第三层：第二层数量 + 第三层可见数量&lt;br style=&quot;border-color: var(--border-color); color: rgb(51, 51, 51);&quot;&gt;&lt;span style=&quot;color: rgb(51, 51, 51);&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 3&amp;nbsp; &amp;nbsp; &amp;nbsp;+&amp;nbsp; &amp;nbsp;3&amp;nbsp; &amp;nbsp; =&amp;nbsp; &amp;nbsp; &amp;nbsp;6个&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="474.25" y="1185" width="305.75" height="50" as="geometry" />
+          <mxGeometry x="474.25" y="1185" width="225.75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eleeWyjdYfNwm8onfjZ9-22" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ff3333&quot;&gt;正方体总数量：第一层 + 第二层 + 第三层&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ff3333&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 1&amp;nbsp; &amp;nbsp; &amp;nbsp;+&amp;nbsp; &amp;nbsp; 3&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;+&amp;nbsp; &amp;nbsp;6&amp;nbsp; &amp;nbsp; =&amp;nbsp; &amp;nbsp; 10个&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=right;" vertex="1" parent="1">
+          <mxGeometry x="380" y="1280" width="320" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
