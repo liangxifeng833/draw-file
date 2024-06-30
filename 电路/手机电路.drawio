@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-30T12:05:58.161Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="5QHfOJ-T7dC0Oo5U4qzY" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-30T12:07:54.136Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="aftR88XPw1xSUTjOLVgA" version="24.6.4" type="github">
   <diagram name="第 1 页" id="F-Re6Uvif4Fe4Fc95BMW">
     <mxGraphModel dx="784" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -314,12 +314,12 @@
           <mxGeometry x="470" y="1860" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="L4pYS3y13BxJtPCVfl_d-86" value="CPU" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="2260" width="65" height="170" as="geometry" />
+          <mxGeometry x="90" y="2320" width="65" height="170" as="geometry" />
         </mxCell>
         <mxCell id="L4pYS3y13BxJtPCVfl_d-87" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.955;exitY=0.127;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="L4pYS3y13BxJtPCVfl_d-86">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="300" y="2310" as="sourcePoint" />
-            <mxPoint x="490" y="2282" as="targetPoint" />
+            <mxPoint x="180" y="2370" as="sourcePoint" />
+            <mxPoint x="370" y="2342" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="L4pYS3y13BxJtPCVfl_d-96" value="片选CS低电平有效选中" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="L4pYS3y13BxJtPCVfl_d-87">
@@ -328,12 +328,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="L4pYS3y13BxJtPCVfl_d-88" value="显示IC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="492" y="2260" width="57.5" height="40" as="geometry" />
+          <mxGeometry x="372" y="2320" width="57.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="L4pYS3y13BxJtPCVfl_d-89" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.955;exitY=0.127;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="274" y="2330" as="sourcePoint" />
-            <mxPoint x="492" y="2330" as="targetPoint" />
+            <mxPoint x="154" y="2390" as="sourcePoint" />
+            <mxPoint x="372" y="2390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="L4pYS3y13BxJtPCVfl_d-94" value="1.8V" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="L4pYS3y13BxJtPCVfl_d-89">
@@ -342,12 +342,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="L4pYS3y13BxJtPCVfl_d-90" value="触摸IC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="492.5" y="2310" width="57.5" height="40" as="geometry" />
+          <mxGeometry x="372.5" y="2370" width="57.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="L4pYS3y13BxJtPCVfl_d-92" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.955;exitY=0.127;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="274" y="2380" as="sourcePoint" />
-            <mxPoint x="492" y="2380" as="targetPoint" />
+            <mxPoint x="154" y="2440" as="sourcePoint" />
+            <mxPoint x="372" y="2440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="L4pYS3y13BxJtPCVfl_d-95" value="1.8V" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="L4pYS3y13BxJtPCVfl_d-92">
@@ -356,7 +356,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="L4pYS3y13BxJtPCVfl_d-93" value="电源IC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="492.5" y="2360" width="57.5" height="40" as="geometry" />
+          <mxGeometry x="372.5" y="2420" width="57.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="L4pYS3y13BxJtPCVfl_d-97" value="CPU控制很多IC, 当某一个功能需要工作时，CPU发出片选信号(低电平有效)让该IC工作，其他IC模式1.8V高电平不工作" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="81.25" y="2250" width="347.5" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
