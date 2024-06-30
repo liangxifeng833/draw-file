@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-30T09:56:54.344Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="wS5i7cRiW_QExy_PVotm" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-30T12:03:38.422Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="bTjrqfxKhPoe8QnAZjQe" version="24.6.4" type="github">
   <diagram name="第 1 页" id="F-Re6Uvif4Fe4Fc95BMW">
     <mxGraphModel dx="784" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -312,6 +312,9 @@
         </mxCell>
         <mxCell id="L4pYS3y13BxJtPCVfl_d-85" value="线圈升压后的正6V供电，单板开机（不装屏幕情况下）就可以测量到" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="470" y="1860" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L4pYS3y13BxJtPCVfl_d-86" value="显示IC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="2270" width="65" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
