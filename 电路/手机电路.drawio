@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-30T09:45:01.363Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="85E1gZGhOIna5M3wck7N" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-30T09:50:17.305Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="x-iVkNSDuAThc_rF4nue" version="24.6.4" type="github">
   <diagram name="第 1 页" id="F-Re6Uvif4Fe4Fc95BMW">
-    <mxGraphModel dx="448" dy="242" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="541" dy="292" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -21,7 +21,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="L4pYS3y13BxJtPCVfl_d-4" value="显示IC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="305" y="1990" width="65" height="290" as="geometry" />
+          <mxGeometry x="305" y="1990" width="65" height="170" as="geometry" />
         </mxCell>
         <mxCell id="L4pYS3y13BxJtPCVfl_d-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.141;entryY=0.158;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="L4pYS3y13BxJtPCVfl_d-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -219,26 +219,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="L4pYS3y13BxJtPCVfl_d-47" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;3. 输出5V正电压&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="L4pYS3y13BxJtPCVfl_d-45">
+        <mxCell id="L4pYS3y13BxJtPCVfl_d-47" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;4. 输出正5V正电压&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="L4pYS3y13BxJtPCVfl_d-45">
           <mxGeometry x="0.004" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="L4pYS3y13BxJtPCVfl_d-48" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="L4pYS3y13BxJtPCVfl_d-4">
+        <mxCell id="L4pYS3y13BxJtPCVfl_d-54" value="" style="endArrow=none;html=1;rounded=0;entryX=0.603;entryY=0.009;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="L4pYS3y13BxJtPCVfl_d-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="2140" as="sourcePoint" />
-            <mxPoint x="430" y="2090" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="L4pYS3y13BxJtPCVfl_d-51" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="2150" as="sourcePoint" />
-            <mxPoint x="430" y="2100" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="L4pYS3y13BxJtPCVfl_d-54" value="" style="endArrow=none;html=1;rounded=0;entryX=0.603;entryY=0.009;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.603;exitY=0.207;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="L4pYS3y13BxJtPCVfl_d-4" target="L4pYS3y13BxJtPCVfl_d-4">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="2100" as="sourcePoint" />
+            <mxPoint x="340" y="2050" as="sourcePoint" />
             <mxPoint x="420" y="2050" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -255,6 +243,64 @@
         </mxCell>
         <mxCell id="L4pYS3y13BxJtPCVfl_d-56" value="3. PP 6V0 (经过升压电感升压后的电压是6V)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="L4pYS3y13BxJtPCVfl_d-55">
           <mxGeometry x="0.4449" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L4pYS3y13BxJtPCVfl_d-68" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="2180" as="sourcePoint" />
+            <mxPoint x="340" y="2050" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L4pYS3y13BxJtPCVfl_d-70" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="2180" as="sourcePoint" />
+            <mxPoint x="350" y="2180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L4pYS3y13BxJtPCVfl_d-73" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="2186" as="sourcePoint" />
+            <mxPoint x="350" y="2186" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L4pYS3y13BxJtPCVfl_d-76" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="2200" as="sourcePoint" />
+            <mxPoint x="340" y="2186" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="340" y="2186" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L4pYS3y13BxJtPCVfl_d-77" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="2200" as="sourcePoint" />
+            <mxPoint x="360" y="2200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="350" y="2200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L4pYS3y13BxJtPCVfl_d-79" value="" style="endArrow=none;html=1;rounded=0;entryX=0.846;entryY=0.882;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="L4pYS3y13BxJtPCVfl_d-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="2200" as="sourcePoint" />
+            <mxPoint x="410" y="2140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L4pYS3y13BxJtPCVfl_d-81" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="2140" as="sourcePoint" />
+            <mxPoint x="560" y="2140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L4pYS3y13BxJtPCVfl_d-82" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="L4pYS3y13BxJtPCVfl_d-81">
+          <mxGeometry x="-0.0089" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L4pYS3y13BxJtPCVfl_d-83" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;5. 输出负5V正电压&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="L4pYS3y13BxJtPCVfl_d-81">
+          <mxGeometry x="0.004" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
