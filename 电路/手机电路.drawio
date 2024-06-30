@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-30T09:40:16.667Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="cCZ01IY-L71QKEW1m89u" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-30T09:45:01.363Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="85E1gZGhOIna5M3wck7N" version="24.6.4" type="github">
   <diagram name="第 1 页" id="F-Re6Uvif4Fe4Fc95BMW">
-    <mxGraphModel dx="784" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="448" dy="242" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -21,7 +21,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="L4pYS3y13BxJtPCVfl_d-4" value="显示IC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="305" y="1990" width="50" height="290" as="geometry" />
+          <mxGeometry x="305" y="1990" width="65" height="290" as="geometry" />
         </mxCell>
         <mxCell id="L4pYS3y13BxJtPCVfl_d-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.141;entryY=0.158;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="L4pYS3y13BxJtPCVfl_d-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -210,7 +210,7 @@
         </mxCell>
         <mxCell id="L4pYS3y13BxJtPCVfl_d-45" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="355" y="2050" as="sourcePoint" />
+            <mxPoint x="340" y="2050" as="sourcePoint" />
             <mxPoint x="561" y="2050" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -236,10 +236,26 @@
             <mxPoint x="430" y="2100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="L4pYS3y13BxJtPCVfl_d-54" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="L4pYS3y13BxJtPCVfl_d-54" value="" style="endArrow=none;html=1;rounded=0;entryX=0.603;entryY=0.009;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.603;exitY=0.207;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="L4pYS3y13BxJtPCVfl_d-4" target="L4pYS3y13BxJtPCVfl_d-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="380" y="2100" as="sourcePoint" />
-            <mxPoint x="430" y="2050" as="targetPoint" />
+            <mxPoint x="420" y="2050" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L4pYS3y13BxJtPCVfl_d-67" value="LDO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="L4pYS3y13BxJtPCVfl_d-54">
+          <mxGeometry x="-0.1879" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L4pYS3y13BxJtPCVfl_d-55" value="" style="endArrow=none;html=1;rounded=0;exitX=0.583;exitY=0.002;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="L4pYS3y13BxJtPCVfl_d-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="1980" as="sourcePoint" />
+            <mxPoint x="343" y="1880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L4pYS3y13BxJtPCVfl_d-56" value="3. PP 6V0 (经过升压电感升压后的电压是6V)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="L4pYS3y13BxJtPCVfl_d-55">
+          <mxGeometry x="0.4449" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
