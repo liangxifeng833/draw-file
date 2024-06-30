@@ -1,9 +1,172 @@
-<mxfile host="app.diagrams.net" modified="2024-06-30T09:25:14.081Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" version="24.6.4" etag="Ofo0xNgtajl15DejaptN" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-30T09:26:10.866Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="mX-lYv2C_0bh389x9GQL" version="24.6.4" type="github">
   <diagram name="第 1 页" id="F-Re6Uvif4Fe4Fc95BMW">
-    <mxGraphModel>
+    <mxGraphModel dx="784" dy="-746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="L4pYS3y13BxJtPCVfl_d-1" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.141;entryY=0.158;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="L4pYS3y13BxJtPCVfl_d-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="1870" as="sourcePoint" />
+            <mxPoint x="270" y="1763.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L4pYS3y13BxJtPCVfl_d-2" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="L4pYS3y13BxJtPCVfl_d-1">
+          <mxGeometry x="-0.0089" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L4pYS3y13BxJtPCVfl_d-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;1.系统供电3.6~4.2V&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="L4pYS3y13BxJtPCVfl_d-1">
+          <mxGeometry x="0.004" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L4pYS3y13BxJtPCVfl_d-4" value="显示IC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="283" y="1830" width="50" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="L4pYS3y13BxJtPCVfl_d-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.141;entryY=0.158;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="L4pYS3y13BxJtPCVfl_d-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="1506" as="sourcePoint" />
+            <mxPoint x="260" y="1523.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L4pYS3y13BxJtPCVfl_d-6" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="L4pYS3y13BxJtPCVfl_d-5">
+          <mxGeometry x="-0.0089" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L4pYS3y13BxJtPCVfl_d-7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;1.开机后1.8V供电&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="L4pYS3y13BxJtPCVfl_d-5">
+          <mxGeometry x="0.004" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L4pYS3y13BxJtPCVfl_d-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="L4pYS3y13BxJtPCVfl_d-10" target="L4pYS3y13BxJtPCVfl_d-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="288" y="1790" />
+              <mxPoint x="620" y="1790" />
+              <mxPoint x="620" y="1550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L4pYS3y13BxJtPCVfl_d-9" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;7 最终显示在屏幕上数据&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="L4pYS3y13BxJtPCVfl_d-8">
+          <mxGeometry x="-0.5097" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L4pYS3y13BxJtPCVfl_d-10" value="显&lt;div&gt;示&lt;/div&gt;&lt;div&gt;座&lt;/div&gt;&lt;div&gt;子&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1460" width="50" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="L4pYS3y13BxJtPCVfl_d-11" value="电源IC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="492" y="1460" width="58" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="L4pYS3y13BxJtPCVfl_d-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.956;entryY=0.082;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.003;exitY=0.619;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="L4pYS3y13BxJtPCVfl_d-11" target="L4pYS3y13BxJtPCVfl_d-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="1516" as="sourcePoint" />
+            <mxPoint x="253" y="1516" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L4pYS3y13BxJtPCVfl_d-13" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="L4pYS3y13BxJtPCVfl_d-12">
+          <mxGeometry x="-0.0089" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L4pYS3y13BxJtPCVfl_d-14" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;2.激活信号1.8V&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="L4pYS3y13BxJtPCVfl_d-12">
+          <mxGeometry x="0.004" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L4pYS3y13BxJtPCVfl_d-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="L4pYS3y13BxJtPCVfl_d-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="1550" as="sourcePoint" />
+            <mxPoint x="473" y="1550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L4pYS3y13BxJtPCVfl_d-16" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="L4pYS3y13BxJtPCVfl_d-15">
+          <mxGeometry x="-0.0089" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L4pYS3y13BxJtPCVfl_d-17" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;3.激活屏幕&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="L4pYS3y13BxJtPCVfl_d-15">
+          <mxGeometry x="0.004" y="2" relative="1" as="geometry">
+            <mxPoint x="-16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L4pYS3y13BxJtPCVfl_d-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.996;entryY=0.463;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="L4pYS3y13BxJtPCVfl_d-21" target="L4pYS3y13BxJtPCVfl_d-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="521" y="1600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L4pYS3y13BxJtPCVfl_d-19" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="L4pYS3y13BxJtPCVfl_d-18">
+          <mxGeometry x="-0.0103" y="-3" relative="1" as="geometry">
+            <mxPoint x="-20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L4pYS3y13BxJtPCVfl_d-20" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;4.屏幕开启EN信号&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="L4pYS3y13BxJtPCVfl_d-18">
+          <mxGeometry x="0.1608" y="-7" relative="1" as="geometry">
+            <mxPoint x="1" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L4pYS3y13BxJtPCVfl_d-21" value="屏幕" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="492" y="1530" width="58" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="L4pYS3y13BxJtPCVfl_d-22" value="显示供电IC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="492" y="1660" width="58" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="L4pYS3y13BxJtPCVfl_d-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="L4pYS3y13BxJtPCVfl_d-24" target="L4pYS3y13BxJtPCVfl_d-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="492" y="1630" />
+              <mxPoint x="472" y="1630" />
+              <mxPoint x="472" y="1680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L4pYS3y13BxJtPCVfl_d-24" value="电源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="492" y="1610" width="58" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="L4pYS3y13BxJtPCVfl_d-25" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="301" y="1629.5" as="sourcePoint" />
+            <mxPoint x="493" y="1629.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L4pYS3y13BxJtPCVfl_d-26" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="L4pYS3y13BxJtPCVfl_d-25">
+          <mxGeometry x="-0.0089" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L4pYS3y13BxJtPCVfl_d-27" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;5.显示开始工作&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="L4pYS3y13BxJtPCVfl_d-25">
+          <mxGeometry x="0.004" y="2" relative="1" as="geometry">
+            <mxPoint x="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L4pYS3y13BxJtPCVfl_d-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1.022;entryY=0.894;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="L4pYS3y13BxJtPCVfl_d-22" target="L4pYS3y13BxJtPCVfl_d-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="510" y="1700" />
+              <mxPoint x="510" y="1720" />
+              <mxPoint x="396" y="1720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L4pYS3y13BxJtPCVfl_d-29" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;6.1 PP正5V供电&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="L4pYS3y13BxJtPCVfl_d-28">
+          <mxGeometry x="0.2688" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L4pYS3y13BxJtPCVfl_d-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.996;entryY=0.963;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="L4pYS3y13BxJtPCVfl_d-22" target="L4pYS3y13BxJtPCVfl_d-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="521" y="1740" />
+              <mxPoint x="396" y="1740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L4pYS3y13BxJtPCVfl_d-31" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;6.2 PN负5V供电&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="L4pYS3y13BxJtPCVfl_d-30">
+          <mxGeometry x="0.2112" relative="1" as="geometry">
+            <mxPoint x="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
