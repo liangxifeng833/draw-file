@@ -624,6 +624,36 @@
             <mxPoint x="400" y="3530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Or6wDegZKE83MerBAkvp-94" value="11#" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="405.75" y="3535" width="26.25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Or6wDegZKE83MerBAkvp-95" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="515" y="3539" as="sourcePoint" />
+            <mxPoint x="575" y="3539" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Or6wDegZKE83MerBAkvp-96" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="515.12" y="3546" as="sourcePoint" />
+            <mxPoint x="575.12" y="3546" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Or6wDegZKE83MerBAkvp-97" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="515.12" y="3559" as="sourcePoint" />
+            <mxPoint x="575.12" y="3559" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Or6wDegZKE83MerBAkvp-98" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="515.12" y="3569" as="sourcePoint" />
+            <mxPoint x="575.12" y="3569" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Or6wDegZKE83MerBAkvp-99" value="I/Q信号4条" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="533.12" y="3505" width="26.25" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
