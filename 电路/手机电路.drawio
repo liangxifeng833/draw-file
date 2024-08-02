@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" version="24.7.6">
   <diagram name="第 1 页" id="F-Re6Uvif4Fe4Fc95BMW">
-    <mxGraphModel dx="595" dy="-851" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="345" dy="-985" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -493,9 +493,9 @@
         <mxCell id="Or6wDegZKE83MerBAkvp-20" value="M/HB" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="327.25" y="3505" width="26.25" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Or6wDegZKE83MerBAkvp-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="Or6wDegZKE83MerBAkvp-22">
+        <mxCell id="Or6wDegZKE83MerBAkvp-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="Or6wDegZKE83MerBAkvp-22">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="460" y="3527.551724137931" as="targetPoint" />
+            <mxPoint x="480" y="3527.4" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Or6wDegZKE83MerBAkvp-22" value="MHB&lt;div&gt;中高频功放&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -509,6 +509,9 @@
         </mxCell>
         <mxCell id="Or6wDegZKE83MerBAkvp-27" value="11#" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="404.75" y="3515" width="26.25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Or6wDegZKE83MerBAkvp-30" value="大中频&lt;div&gt;IC&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="479.5" y="3505" width="60" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
