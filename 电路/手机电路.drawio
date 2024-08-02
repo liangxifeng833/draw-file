@@ -451,7 +451,7 @@
         <mxCell id="lAc3ItXL6pxSoQvCD10s-76" value="P+" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="369" y="3326.66" width="35" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Or6wDegZKE83MerBAkvp-1" value="&lt;h3&gt;&lt;span style=&quot;background-color: rgb(153, 255, 204);&quot;&gt;手机收发信号电路&lt;/span&gt;&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Or6wDegZKE83MerBAkvp-1" value="&lt;h3&gt;&lt;span style=&quot;background-color: rgb(153, 255, 204);&quot;&gt;手机收发信号电路(iphon7)&lt;/span&gt;&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="295" y="3400" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Or6wDegZKE83MerBAkvp-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Or6wDegZKE83MerBAkvp-2">
@@ -498,6 +498,11 @@
             <mxPoint x="400.25" y="3657.4" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Or6wDegZKE83MerBAkvp-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Or6wDegZKE83MerBAkvp-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="319.11764705882365" y="3779.9999999999995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Or6wDegZKE83MerBAkvp-22" value="MHB&lt;div&gt;中高频功放&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="289.25" y="3635" width="60" height="90" as="geometry" />
         </mxCell>
@@ -513,15 +518,18 @@
         <mxCell id="Or6wDegZKE83MerBAkvp-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="Or6wDegZKE83MerBAkvp-30">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="578.5" y="3653.6" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="519" y="3654" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Or6wDegZKE83MerBAkvp-30" value="大中&lt;span style=&quot;background-color: initial;&quot;&gt;频&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;或大射频&lt;/span&gt;&lt;div&gt;&lt;div&gt;IC&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="438" y="3630" width="80.5" height="95" as="geometry" />
+          <mxGeometry x="438" y="3630" width="80.5" height="230" as="geometry" />
         </mxCell>
         <mxCell id="Or6wDegZKE83MerBAkvp-31" value="65#" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="435" y="3643" width="26.25" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Or6wDegZKE83MerBAkvp-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.997;exitY=0.411;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Or6wDegZKE83MerBAkvp-30">
+        <mxCell id="Or6wDegZKE83MerBAkvp-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.976;exitY=0.166;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Or6wDegZKE83MerBAkvp-30">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="538.5" y="3755" as="sourcePoint" />
             <mxPoint x="578.5" y="3669" as="targetPoint" />
@@ -542,11 +550,31 @@
         <mxCell id="Or6wDegZKE83MerBAkvp-39" value="基带CPU" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="578.5" y="3525" width="91.5" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="Or6wDegZKE83MerBAkvp-40" value="中国移动&lt;div&gt;B40B频段&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Or6wDegZKE83MerBAkvp-40" value="中国移动4G&lt;div&gt;B40B频段&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="350.25" y="3634" width="80.75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Or6wDegZKE83MerBAkvp-42" value="I/Q信号4条" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="533.13" y="3620" width="26.25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Or6wDegZKE83MerBAkvp-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="Or6wDegZKE83MerBAkvp-52" target="Or6wDegZKE83MerBAkvp-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="3802.294117647059" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Or6wDegZKE83MerBAkvp-52" value="&lt;div&gt;TDD&lt;/div&gt;&lt;div&gt;HB&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="291.25" y="3780" width="60" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Or6wDegZKE83MerBAkvp-53" value="7#" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="306.25" y="3709" width="26.25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Or6wDegZKE83MerBAkvp-55" value="16#" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="306.25" y="3780" width="26.25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Or6wDegZKE83MerBAkvp-56" value="85#" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="439.75" y="3793" width="26.25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Or6wDegZKE83MerBAkvp-58" value="中国联通4G&lt;div&gt;B41A频段&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="353.25" y="3808" width="80.75" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
