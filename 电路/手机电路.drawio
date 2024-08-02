@@ -510,7 +510,7 @@
         <mxCell id="Or6wDegZKE83MerBAkvp-27" value="11#" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="404.75" y="3515" width="26.25" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Or6wDegZKE83MerBAkvp-30" value="大中&lt;span style=&quot;background-color: initial;&quot;&gt;频&lt;/span&gt;&lt;div&gt;&lt;div&gt;IC&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Or6wDegZKE83MerBAkvp-30" value="大中&lt;span style=&quot;background-color: initial;&quot;&gt;频或大射频&lt;/span&gt;&lt;div&gt;&lt;div&gt;IC&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="479.5" y="3505" width="60" height="90" as="geometry" />
         </mxCell>
       </root>
