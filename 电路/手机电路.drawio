@@ -488,13 +488,19 @@
           <mxGeometry x="270" y="3485" width="40" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Or6wDegZKE83MerBAkvp-19" value="4#" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="305" y="3520" width="26.25" height="20" as="geometry" />
+          <mxGeometry x="289.62" y="3513" width="26.25" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Or6wDegZKE83MerBAkvp-20" value="M/HB" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="327.25" y="3505" width="26.25" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Or6wDegZKE83MerBAkvp-22" value="MHB&lt;div&gt;中高频功放&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="3510" width="60" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Or6wDegZKE83MerBAkvp-23" value="14#" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="367" y="3513" width="26.25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Or6wDegZKE83MerBAkvp-25" value="2#" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="265" y="3490" width="26.25" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
