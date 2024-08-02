@@ -576,6 +576,18 @@
         <mxCell id="Or6wDegZKE83MerBAkvp-58" value="中国联通4G&lt;div&gt;B41A频段&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="353.25" y="3808" width="80.75" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="Or6wDegZKE83MerBAkvp-59" value="1#" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="326.25" y="3693" width="26.25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Or6wDegZKE83MerBAkvp-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=-0.055;entryY=0.319;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Or6wDegZKE83MerBAkvp-22" target="Or6wDegZKE83MerBAkvp-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Or6wDegZKE83MerBAkvp-63" value="中国联通3G&lt;div&gt;B41A频段&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="351.25" y="3709" width="80.75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Or6wDegZKE83MerBAkvp-65" value="92#" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="3693" width="26.25" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
