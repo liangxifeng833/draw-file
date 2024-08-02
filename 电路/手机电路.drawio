@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" version="24.7.6">
   <diagram name="第 1 页" id="F-Re6Uvif4Fe4Fc95BMW">
-    <mxGraphModel dx="1438" dy="-401" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1151" dy="-554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -539,8 +539,8 @@
         <mxCell id="Or6wDegZKE83MerBAkvp-39" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;基带CPU&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="640" y="3420" width="91.5" height="540" as="geometry" />
         </mxCell>
-        <mxCell id="Or6wDegZKE83MerBAkvp-42" value="I/Q信号4条" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="533.13" y="3620" width="26.25" height="20" as="geometry" />
+        <mxCell id="Or6wDegZKE83MerBAkvp-42" value="I/Q信号4条 RX" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="523.75" y="3635" width="98.44" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Or6wDegZKE83MerBAkvp-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="Or6wDegZKE83MerBAkvp-52" target="Or6wDegZKE83MerBAkvp-30">
           <mxGeometry relative="1" as="geometry">
@@ -625,7 +625,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Or6wDegZKE83MerBAkvp-99" value="I/Q信号4条 RX" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="546.5600000000001" y="3515" width="46.88" height="20" as="geometry" />
+          <mxGeometry x="528.28" y="3520" width="83.44" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Or6wDegZKE83MerBAkvp-101" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -691,7 +691,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Or6wDegZKE83MerBAkvp-121" value="I/Q信号4条 TX" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="550" y="3400" width="46.25" height="45" as="geometry" />
+          <mxGeometry x="524.75" y="3407" width="100" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
