@@ -545,6 +545,9 @@
         <mxCell id="Or6wDegZKE83MerBAkvp-40" value="中国移动&lt;div&gt;B40B频段&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="350.25" y="3634" width="80.75" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="Or6wDegZKE83MerBAkvp-42" value="I/Q信号4条" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="533.13" y="3620" width="26.25" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
