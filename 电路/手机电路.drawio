@@ -587,7 +587,7 @@
           <mxGeometry x="440" y="3693" width="26.25" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Or6wDegZKE83MerBAkvp-72" value="6#" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="206" y="3594" width="26.25" height="20" as="geometry" />
+          <mxGeometry x="206" y="3572" width="26.25" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Or6wDegZKE83MerBAkvp-78" value="JLAT1_RF&lt;div&gt;天线&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="7" y="3530" width="60" height="30" as="geometry" />
@@ -600,6 +600,9 @@
             <mxPoint x="231.25" y="3581.41" as="sourcePoint" />
             <mxPoint x="295.25" y="3581.41" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Or6wDegZKE83MerBAkvp-85" value="5#" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="272" y="3563" width="26.25" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
