@@ -487,7 +487,7 @@
         <mxCell id="Or6wDegZKE83MerBAkvp-17" value="双工器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="3485" width="40" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Or6wDegZKE83MerBAkvp-19" value="6#" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Or6wDegZKE83MerBAkvp-19" value="4#" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="305" y="3520" width="26.25" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Or6wDegZKE83MerBAkvp-20" value="M/HB" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
