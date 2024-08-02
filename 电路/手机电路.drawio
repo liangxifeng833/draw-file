@@ -493,7 +493,7 @@
         <mxCell id="Or6wDegZKE83MerBAkvp-20" value="M/HB" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="247.5" y="3635" width="26.25" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Or6wDegZKE83MerBAkvp-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="Or6wDegZKE83MerBAkvp-22">
+        <mxCell id="Or6wDegZKE83MerBAkvp-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="Or6wDegZKE83MerBAkvp-22" target="Or6wDegZKE83MerBAkvp-31">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="400.25" y="3657.4" as="targetPoint" />
           </mxGeometry>
@@ -512,35 +512,38 @@
         </mxCell>
         <mxCell id="Or6wDegZKE83MerBAkvp-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="Or6wDegZKE83MerBAkvp-30">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="540.25" y="3658.6" as="targetPoint" />
+            <mxPoint x="578.5" y="3653.6" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Or6wDegZKE83MerBAkvp-30" value="大中&lt;span style=&quot;background-color: initial;&quot;&gt;频&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;或大射频&lt;/span&gt;&lt;div&gt;&lt;div&gt;IC&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="399.75" y="3635" width="80.5" height="95" as="geometry" />
+          <mxGeometry x="438" y="3630" width="80.5" height="95" as="geometry" />
         </mxCell>
         <mxCell id="Or6wDegZKE83MerBAkvp-31" value="65#" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="396.75" y="3648" width="26.25" height="20" as="geometry" />
+          <mxGeometry x="435" y="3643" width="26.25" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Or6wDegZKE83MerBAkvp-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.997;exitY=0.411;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Or6wDegZKE83MerBAkvp-30">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="500.25" y="3760" as="sourcePoint" />
-            <mxPoint x="540.25" y="3674" as="targetPoint" />
+            <mxPoint x="538.5" y="3755" as="sourcePoint" />
+            <mxPoint x="578.5" y="3669" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Or6wDegZKE83MerBAkvp-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.997;exitY=0.411;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="480.25" y="3690" as="sourcePoint" />
-            <mxPoint x="540.25" y="3690" as="targetPoint" />
+            <mxPoint x="518.5" y="3685" as="sourcePoint" />
+            <mxPoint x="578.5" y="3685" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Or6wDegZKE83MerBAkvp-37" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.997;exitY=0.411;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="480.25" y="3710" as="sourcePoint" />
-            <mxPoint x="540.25" y="3710" as="targetPoint" />
+            <mxPoint x="518.5" y="3705" as="sourcePoint" />
+            <mxPoint x="578.5" y="3705" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Or6wDegZKE83MerBAkvp-39" value="基带CPU" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540.25" y="3530" width="50" height="310" as="geometry" />
+          <mxGeometry x="578.5" y="3525" width="50" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="Or6wDegZKE83MerBAkvp-40" value="中国移动&lt;div&gt;B40B频段&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350.25" y="3634" width="80.75" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
