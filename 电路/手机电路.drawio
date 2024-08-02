@@ -548,9 +548,6 @@
         <mxCell id="Or6wDegZKE83MerBAkvp-39" value="基带CPU" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="578.5" y="3525" width="91.5" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="Or6wDegZKE83MerBAkvp-40" value="中国移动4G&lt;div&gt;B40B频段&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="350.25" y="3634" width="80.75" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="Or6wDegZKE83MerBAkvp-42" value="I/Q信号4条" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="533.13" y="3620" width="26.25" height="20" as="geometry" />
         </mxCell>
@@ -613,7 +610,19 @@
           <mxGeometry x="327" y="3525" width="26.25" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Or6wDegZKE83MerBAkvp-89" value="&lt;span style=&quot;background-color: initial;&quot;&gt;低频&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;或小射频&lt;/span&gt;&lt;div&gt;&lt;div&gt;IC&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="432" y="3482" width="80.5" height="110" as="geometry" />
+          <mxGeometry x="430" y="3482" width="80.5" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Or6wDegZKE83MerBAkvp-90" value="中国移动4G&lt;div&gt;B40B频段&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360.25" y="3644" width="80.75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Or6wDegZKE83MerBAkvp-40" value="移动、联通、电信&amp;nbsp;&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;2G&lt;/span&gt;&lt;div&gt;&lt;div&gt;B8 和 B26 频段&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="272.75" y="3482" width="146" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Or6wDegZKE83MerBAkvp-92" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.799;exitY=0.732;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Or6wDegZKE83MerBAkvp-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="3490" as="sourcePoint" />
+            <mxPoint x="400" y="3530" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
