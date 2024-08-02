@@ -467,7 +467,7 @@
         </mxCell>
         <mxCell id="Or6wDegZKE83MerBAkvp-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Or6wDegZKE83MerBAkvp-8">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="320" y="3510.3103448275865" as="targetPoint" />
+            <mxPoint x="270" y="3510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Or6wDegZKE83MerBAkvp-8" value="滤波器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -477,7 +477,24 @@
           <mxGeometry x="139.75" y="3488" width="26.25" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Or6wDegZKE83MerBAkvp-14" value="1#" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="223.62" y="3492" width="26.25" height="20" as="geometry" />
+          <mxGeometry x="226.62" y="3490" width="26.25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Or6wDegZKE83MerBAkvp-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="Or6wDegZKE83MerBAkvp-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="3522.7241379310344" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Or6wDegZKE83MerBAkvp-17" value="双工器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="3485" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Or6wDegZKE83MerBAkvp-19" value="6#" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="305" y="3520" width="26.25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Or6wDegZKE83MerBAkvp-20" value="M/HB" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="327.25" y="3505" width="26.25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Or6wDegZKE83MerBAkvp-22" value="MHB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="3510" width="40" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
