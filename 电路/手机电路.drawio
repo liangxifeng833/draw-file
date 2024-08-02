@@ -479,11 +479,6 @@
         <mxCell id="Or6wDegZKE83MerBAkvp-14" value="1#" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="146.87" y="3620" width="26.25" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Or6wDegZKE83MerBAkvp-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="Or6wDegZKE83MerBAkvp-17">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="280" y="3603.714285714286" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Or6wDegZKE83MerBAkvp-17" value="双工器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190.25" y="3570" width="40" height="134" as="geometry" />
         </mxCell>
@@ -596,6 +591,15 @@
         </mxCell>
         <mxCell id="Or6wDegZKE83MerBAkvp-78" value="JLAT1_RF&lt;div&gt;天线&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="7" y="3530" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Or6wDegZKE83MerBAkvp-81" value="LB&lt;div&gt;低频功放&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="295" y="3520" width="60" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Or6wDegZKE83MerBAkvp-84" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="231.25" y="3581.41" as="sourcePoint" />
+            <mxPoint x="295.25" y="3581.41" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
