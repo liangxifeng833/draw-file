@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" version="24.7.6">
   <diagram name="第 1 页" id="F-Re6Uvif4Fe4Fc95BMW">
-    <mxGraphModel dx="1569" dy="-331" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1079" dy="-593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -455,7 +455,7 @@
           <mxGeometry x="369" y="3326.66" width="35" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Or6wDegZKE83MerBAkvp-1" value="&lt;h3&gt;&lt;span style=&quot;background-color: rgb(153, 255, 204);&quot;&gt;手机收发信号电路(iphon7)&lt;/span&gt;&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="297.84" y="3460" width="190" height="30" as="geometry" />
+          <mxGeometry x="329.84" y="3540" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Or6wDegZKE83MerBAkvp-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Or6wDegZKE83MerBAkvp-2" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -547,7 +547,7 @@
             <mxPoint x="443.59" y="4058.294117647059" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Or6wDegZKE83MerBAkvp-52" value="&lt;div&gt;TDD&lt;/div&gt;&lt;div&gt;HB&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Or6wDegZKE83MerBAkvp-52" value="&lt;div&gt;（TDD）&lt;/div&gt;&lt;div&gt;高频功放&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="314.84" y="4036" width="60" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Or6wDegZKE83MerBAkvp-53" value="7#" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
