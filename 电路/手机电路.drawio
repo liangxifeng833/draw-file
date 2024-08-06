@@ -504,7 +504,7 @@
             <mxPoint x="319.11764705882365" y="3779.9999999999995" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Or6wDegZKE83MerBAkvp-22" value="&lt;font&gt;MHB公司&lt;/font&gt;&lt;div&gt;中高频功放&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Or6wDegZKE83MerBAkvp-22" value="&lt;font&gt;MHB公司&lt;/font&gt;&lt;div&gt;中高频功放&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="289.25" y="3635" width="60" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Or6wDegZKE83MerBAkvp-23" value="14#" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -580,7 +580,7 @@
         <mxCell id="Or6wDegZKE83MerBAkvp-78" value="JLAT1_RF&lt;div&gt;天线&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="7" y="3530" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Or6wDegZKE83MerBAkvp-81" value="&lt;br&gt;&lt;div&gt;低频功放&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Or6wDegZKE83MerBAkvp-81" value="&lt;br&gt;&lt;div&gt;低频功放&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="295" y="3520" width="60" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Or6wDegZKE83MerBAkvp-84" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
@@ -738,7 +738,7 @@
             <mxPoint x="188" y="4052" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3lj2mDadeVUXl2QQIyic-8" value="低频功放" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3lj2mDadeVUXl2QQIyic-8" value="低频功放" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="127" y="3999.5" width="60" height="70.5" as="geometry" />
         </mxCell>
         <mxCell id="3lj2mDadeVUXl2QQIyic-9" value="&#xa;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -747,7 +747,7 @@
             <mxPoint x="188" y="4117.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3lj2mDadeVUXl2QQIyic-10" value="中高频功放" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3lj2mDadeVUXl2QQIyic-10" value="中高频功放" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="127" y="4101" width="60" height="69" as="geometry" />
         </mxCell>
       </root>
